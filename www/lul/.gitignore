@@ -3,3 +3,4 @@ folder2/*.html
 folder2/subfolder/*.php
 !file.php
 folder3/*.php
+!file3.php
