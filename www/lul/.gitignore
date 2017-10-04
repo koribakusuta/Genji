@@ -2,6 +2,6 @@
 folder2/*.html
 folder2/subfolder/*.php
 !file.php
-folder3/subfolder2/*.php
+folder3/**/*.php
 !file3.php
 
