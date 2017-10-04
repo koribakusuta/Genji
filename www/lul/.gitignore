@@ -2,4 +2,4 @@
 folder2/*.html
 folder2/subfolder/*.php
 !file.php
-/folder3/file0.php
+/folder3/**/*.php
