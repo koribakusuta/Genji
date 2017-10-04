@@ -4,3 +4,4 @@ folder2/subfolder/*.php
 !file.php
 /folder3
 !subfolder2\file3.php
+/file0.php
